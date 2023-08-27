@@ -1,8 +1,10 @@
 ### こんにちは 👋
 
-I am a student of 42Tokyo(https://42tokyo.jp/). 
-\nI am interested in language models and image generation!
+I am a student of [42Tokyo](https://42tokyo.jp/).  
+I am interested in language models and image generation!
 
+
+#
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Smizuoch)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--

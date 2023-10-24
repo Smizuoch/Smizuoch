@@ -1,7 +1,7 @@
 ### こんにちは 👋
 
 I am a student of [42Tokyo](https://42tokyo.jp/).  
-I am interested in language models and image generation!
+I am interested in language models and image generation!  
 連絡は[𝕏](https://twitter.com/ShotaroM8)にお願いします。
 
 

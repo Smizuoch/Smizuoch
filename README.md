@@ -3,6 +3,7 @@
 I am a student of [42Tokyo](https://42tokyo.jp/).  
 I am interested in language models and image generation!  
 連絡は[𝕏](https://twitter.com/ShotaroM8)にお願いします。
+日本語を主として使用しております。
 
 [![smizuoch's 42 stats](https://badge42.coday.fr/api/v2/clqlthx6l173001p4lm52sd1t/stats?cursusId=21&coalitionId=308)](https://github.com/Coday-meric/badge42)
 

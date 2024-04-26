@@ -23,4 +23,4 @@ Visual Studio Code
 
 
 
-###### [ロゴさわらつき](https://github.com/SAWARATSUKI/ServiceLogos)
+###### [ロゴ:さわらつき](https://github.com/SAWARATSUKI/ServiceLogos)

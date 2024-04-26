@@ -13,11 +13,11 @@ I am interested in language models and image generation!
 
 ## Tools Used
 
-### Language
+### Languages
 <a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C/C.png" alt="C" width="320" height="	180"></a>
 <a href="https://www.python.org/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png" alt="Python" width="320" height="	180"></a>
 
-### Engine
+### Engines
 Ren'Py
 
 ### Editors

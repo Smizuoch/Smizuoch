@@ -18,7 +18,7 @@ I am interested in language models and image generation!
 <a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png" alt="Cのロゴ" width="320" height="	180"></a>
 
 ### Tool
-<a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C/C.png" alt="Cのロゴ" width="320" height="	180"></a>
+Visual Studio Code
 <a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Vim/VIM.png" alt="Cのロゴ" width="320" height="	180"></a>
 
 

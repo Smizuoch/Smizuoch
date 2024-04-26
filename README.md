@@ -12,8 +12,15 @@ I am interested in language models and image generation!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smizuoch&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools Used
+
+### Language
 <a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C/C.png" alt="Cのロゴ" width="320" height="	180"></a>
+<a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png" alt="Cのロゴ" width="320" height="	180"></a>
+
+### Tool
+<a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C/C.png" alt="Cのロゴ" width="320" height="	180"></a>
+<a href="リンク先のURL"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Vim/VIM.png" alt="Cのロゴ" width="320" height="	180"></a>
 
 
 
-
+###### [ロゴさわらつき](https://github.com/SAWARATSUKI/ServiceLogos)

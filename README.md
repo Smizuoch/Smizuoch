@@ -32,7 +32,7 @@ Windows
 <a href="https://github.com/smizuoch"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png" alt="GitHub" width="320" height="	180"></a>
 <a href="https://twitter.com/ShotaroM8"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/X/X.png" alt="X" width="320" height="	180"></a>
 [Hugging Face](https://huggingface.co/smizuoch)
-Discord
+<a href="https://discord.com/users/704998219020501043"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png" alt="Discord" width="320" height="	180"></a>
 
 ### Other
 [Scrapbox](https://scrapbox.io/product)

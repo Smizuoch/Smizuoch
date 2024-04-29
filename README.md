@@ -21,7 +21,7 @@ I am interested in language models and image generation!
 Ren'Py
 
 ### Editors
-Visual Studio Code
+<a href="https://code.visualstudio.com/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCodeRound.png" alt="VisualStudioCode" width="320" height="	180"></a>
 <a href="https://www.vim.org/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Vim/VIM.png" alt="Vim" width="320" height="	180"></a>
 
 ### OS

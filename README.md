@@ -14,23 +14,23 @@ I am interested in language models and image generation!
 ## Tools Used
 
 ### Languages
-<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/C/C.png" alt="C" width="320" height="	180"></a>
-<a href="https://www.python.org/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Python/Python.png" alt="Python" width="320" height="	180"></a>
+<a href="https://www.open-std.org/jtc1/sc22/wg14/"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/C.png" alt="C" width="320" height="	180"></a>
+<a href="https://www.python.org/"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/Python.png" alt="Python" width="320" height="	180"></a>
 
 ### Engines
 Ren'Py
 
 ### Editors
 <a href="https://code.visualstudio.com/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/VisualStudioCode/VisualStudioCodeRound.png" alt="VisualStudioCode" width="320" height="	180"></a>
-<a href="https://www.vim.org/"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Vim/VIM.png" alt="Vim" width="320" height="	180"></a>
+<a href="https://www.vim.org/"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/VIMTRANS.png" alt="Vim" width="320" height="	180"></a>
 
 ### OS
 Mac OS
 Windows
 
 ### Social
-<a href="https://github.com/smizuoch"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/GitHub/GitHub.png" alt="GitHub" width="320" height="	180"></a>
-<a href="https://twitter.com/ShotaroM8"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/X/X.png" alt="X" width="320" height="	180"></a>
+<a href="https://github.com/smizuoch"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/Github.png" alt="GitHub" width="320" height="	180"></a>
+<a href="https://twitter.com/ShotaroM8"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/X.png" alt="X" width="320" height="	180"></a>
 [Hugging Face](https://huggingface.co/smizuoch)
 <a href="https://discord.com/users/704998219020501043"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png" alt="Discord" width="320" height="	180"></a>
 

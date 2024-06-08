@@ -35,3 +35,4 @@ Windows
 <a href="https://discord.com/users/704998219020501043"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png" alt="Discord" width="320" height="	180"></a>
 
 ###### [ロゴ:さわらつき](https://github.com/SAWARATSUKI/ServiceLogos)
+

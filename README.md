@@ -38,5 +38,4 @@ Windows
 
 
 
-
 ###### [ロゴ:さわらつき](https://github.com/SAWARATSUKI/ServiceLogos)

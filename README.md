@@ -31,7 +31,6 @@ Windows
 ### Social
 <a href="https://github.com/smizuoch"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/Github.png" alt="GitHub" width="320" height="	180"></a>
 <a href="https://twitter.com/ShotaroM8"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/X.png" alt="X" width="320" height="	180"></a>
-[Hugging Face](https://huggingface.co/smizuoch)
 <a href="https://discord.com/users/704998219020501043"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png" alt="Discord" width="320" height="	180"></a>
 
 

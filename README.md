@@ -34,8 +34,6 @@ Windows
 [Hugging Face](https://huggingface.co/smizuoch)
 <a href="https://discord.com/users/704998219020501043"><img src="https://github.com/SAWARATSUKI/ServiceLogos/blob/main/Discord/Discord.png" alt="Discord" width="320" height="	180"></a>
 
-### Other
-[Scrapbox](https://scrapbox.io/product)
 
 
 

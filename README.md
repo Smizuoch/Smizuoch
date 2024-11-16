@@ -28,6 +28,7 @@ Ren'Py
 ### OS
 Mac OS
 Windows
+Ubuntu
 
 ### Social
 <a href="https://github.com/smizuoch"><img src="https://github.com/smizuoch/smizuoch/blob/main/images/Github.png" alt="GitHub" width="320" height="	180"></a>

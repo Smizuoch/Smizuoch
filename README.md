@@ -2,7 +2,7 @@
 
 I am a student of [42Tokyo](https://42tokyo.jp/).  
 I am interested in language models and image generation!  
-連絡はメールにお願いします。
+連絡は[メール](smizuoch@student.42tokyo.jp)にお願いします。
 日本語を主として使用しております。
 
 [![smizuoch's 42 stats](https://badge.mediaplus.ma/darkblue/smizuoch?1337Badge=off&UM6P=off)](https://profile.intra.42.fr/users/smizuoch)
